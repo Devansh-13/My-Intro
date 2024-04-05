@@ -103,10 +103,11 @@ hr{
 
     border-style: none;
     border-top-style: dotted;
-    border-color: #EAF6F6;
+    border-color: #11999E;
     border-width: 10px;
-    width: 7%;
+    width: 80%;
     margin:100px auto;
+    opacity: 0.5;
 
 }
 
@@ -254,7 +255,7 @@ margin:30px auto;
         }
 
         .skills{
-          margin-top: -80px;
+          margin-top: -40px;
         }
         .code-image{
           height: 90px;
@@ -274,7 +275,7 @@ margin:30px auto;
           }
 
       .contact-me {
-        margin-top: -100px;
+        margin-top: -50px;
       
         h2{
         font-size: 2.2rem;
@@ -287,6 +288,10 @@ margin:30px auto;
           width: 70%;
           
         }
+      }
+      hr{
+        width: 20%;
+        opacity: 0.4;
       }
 
     .mtn{
