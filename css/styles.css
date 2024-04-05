@@ -239,7 +239,7 @@ margin:30px auto;
       
       .bottom-cloud{
       position:absolute;
-      top:250px;
+      top:240px;
       left:20px;
       }
       .image-intro{
@@ -282,6 +282,7 @@ margin:30px auto;
         }
         h3{
           font-size: 1.5rem;
+     
         }
         p{
           font-size: 1.4rem;
@@ -295,24 +296,24 @@ margin:30px auto;
       }
 
     .mtn{
-      height: 250px;
+      height: 230px;
       margin: 0 auto;
     }
     .footer-link{
       font-size: 1.2rem;
     }
     .bottom-container{
-      height:100px;
-      padding: 10px 0 20px 5px;
+      height:110px;
+      padding: 10px 0 40px 5px;
       a{
         font-size: 1.1rem;
-        margin-bottom: 0px;
+        margin-bottom: -10px;
       }
       
     }
     .btn{
       height: 20px;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
     }
    
   }
